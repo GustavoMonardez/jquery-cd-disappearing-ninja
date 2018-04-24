@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper{
+    width: 970px;
+    background-color: silver;
+    margin:auto;
+}
+
+.ninja{
+    width:230px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+#restore{
+    display: block;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    margin:20px auto 0px auto;
+    background: linear-gradient(rgb(29, 28, 28),rgb(75, 74, 73));
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+#label{
+    width:300px;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    padding:10px;
+    border: 1px solid black;
+    margin:10px auto 0px auto;
+}
